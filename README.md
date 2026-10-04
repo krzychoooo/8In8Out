@@ -1,6 +1,6 @@
 # 8In8Out
 
-* The module adds 8 microcontroller inputs and 8 outputs via the I2C bus.
+* The module adds 8 inputs and 8 outputs to a microcontroller via the I2C bus.
 * The inputs are optically isolated.
 * The module features an interrupt line, eliminating the need for continuous polling of the inputs to check for changes.
 * The module automatically signals a state change on any of the inputs via the interrupt line.
